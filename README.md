@@ -1,7 +1,7 @@
 # JavaScript Rest API with MongoDB database
 
 * Use any docker MongoDB container
-* Type ```npm start``` to start backend server
+* Type ```npm start``` in the console to start backend server
 
 ## Endpoints
 
